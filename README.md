@@ -10,7 +10,7 @@
 ---
 
 ## 👤 Profile
-MLOps Engineer / Data Scientist with experience in designing robust data and ML pipelines (Airflow, Azure DF), deploying models via REST APIs (FastAPI), and containerizing services with Docker. Skilled in Azure Cloud, CI/CD, and large-scale data analysis. Strong written and spoken communication in English, with experience in documentation, cross-team collaboration, and client advising. Focused on service-oriented architectures, automation, and reliable deployment of AI solutions. 
+ML and Data Engineer / Data Scientist with experience in designing robust data and ML pipelines (Airflow, Azure DF), deploying models via REST APIs (FastAPI), and containerizing services with Docker. Skilled in Azure Cloud, CI/CD, and large-scale data analysis. Strong written and spoken communication in English, with experience in documentation, cross-team collaboration, and client advising. Focused on service-oriented architectures, automation, and reliable deployment of AI solutions. 
 
 ---
 
