@@ -3,3 +3,10 @@ logo: /assets/img/Imagen2.jpg
 #description: text below image
 show_downloads: false
 theme: jekyll-theme-minimal
+
+# Navigation links (se mostrarán en la navbar si el theme lo soporta)
+nav:
+  - title: "Home"
+    url: /
+  - title: "Resume"
+    url: /resume/
