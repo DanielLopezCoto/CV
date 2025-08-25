@@ -8,7 +8,7 @@
 ---
 
 ## 👤 Profile
-Data and ML Engineer / Data Scientist with experience in building data pipelines (Airflow, Azure Data Factory), REST APIs (FastAPI), and containerized services (Docker). Skilled in Azure, Power BI, SQL and large-scale data analysis. Strong written and spoken communication in English, with experience in technical documentation and client-facing roles. Focused on service-oriented solutions and process automation with AI.  
+MLOps Engineer / Data Scientist with experience in designing robust data and ML pipelines (Airflow, Azure DF), deploying models via REST APIs (FastAPI), and containerizing services with Docker. Skilled in Azure Cloud, CI/CD, and large-scale data analysis. Strong written and spoken communication in English, with experience in documentation, cross-team collaboration, and client advising. Focused on service-oriented architectures, automation, and reliable deployment of AI solutions. 
 
 ---
 
@@ -17,11 +17,12 @@ Data and ML Engineer / Data Scientist with experience in building data pipelines
 
 ### **ML Engineer / Data Scientist** @ **Minsait (Indra)**
 *Oct 2024 – Present*  
-- Built ETL pipelines to extract structured data from Word/HTML documents for LLM processing.  
-- Applied LLMs to analyze and compare unstructured document content.  
-- Developed RESTful APIs to deploy and serve AI models.  
-- Created RAG-based chatbots for interactive document querying.  
-- Containerized NLP services using Docker for scalable deployment.  
+- Designed and automated ETL pipelines for LLM-based document processing.
+- Applied LLMs for large-scale text analysis, summarization, and comparison.
+- Developed RESTful APIs to deploy and serve AI models in production.
+- Built RAG-based chatbots enabling scalable user interaction.
+- Containerized NLP services with Docker, ensuring maintainability and deployment readiness.
+  
 
 ### **ML Engineer** @ **SDG Group**
 *Jan 2024 – Oct 2024*
@@ -55,13 +56,13 @@ Data and ML Engineer / Data Scientist with experience in building data pipelines
 ---
 
 ## 🛠 Skills
-- **Programming & Data**: Python, PySpark, FastAPI, SQL, SQLAlchemy, PGVector  
-- **Databases**: PostgreSQL, MongoDB  
-- **Version Control**: Git, GitHub, Bitbucket  
-- **Orchestration & CI/CD**: Docker, Airflow, Argo  
-- **Cloud & BI**: Azure Datafactory, Databricks, Synapse, Power BI, Power Query  
-- **Methodologies**: Agile, JIRA  
-- **Other**: Team collaboration, communication skills, technical & non-technical reporting  
+- **Programming & Data**: Python, PySpark, FastAPI, SQL, SQLAlchemy, PGVector.
+- **Databases**: PostgreSQL, MySQL.
+- **Version Control**: Git, GitHub, Bitbucket.
+- **Orchestration & CI/CD**: Docker, Airflow.
+- **Cloud & BI**: Azure Datafactory, Databricks, Synapse, Power BI, Power Query.
+- **Methodologies**: Agile, JIRA.
+- **Other**: Team collaboration, communication skills, technical & non-technical reporting.
 
 ---
 
