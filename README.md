@@ -1,7 +1,10 @@
 # ML/Data Engineer and Data Scientist
 
 ✉️ [dlcoto@protonmail.com](mailto:dlcoto@protonmail.com)  
-🔗 [linkedin.com/in/daniellc-phd](http://linkedin.com/in/daniellc-phd)  
+🔗 [linkedin.com/in/daniellc-phd](http://linkedin.com/in/daniellc-phd)
+**[CV in PDF](./assets/DanielLC_CV.pdf)**.
+
+<embed src="./assets/DanielLC_CV.pdf" type="application/pdf" width="100%" height="800px" />
 
 ### Technical Skills: Python, SQL, Azure, Docker
 
